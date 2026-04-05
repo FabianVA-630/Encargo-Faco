@@ -485,7 +485,6 @@
         <span class="keyword">Hive Moderation</span>
         <span class="keyword">Sight Engine</span>
         <span class="keyword">Plan Escudo Fronterizo</span>
-        <span class="keyword">Visualización forense</span>
         <span class="keyword">Fact-checking</span>
         <span class="keyword">IA generativa</span>
       </div>
