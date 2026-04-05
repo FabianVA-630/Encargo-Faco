@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Imágenes sintéticas y desinformación institucional Análisis crítico del caso Plan Escudo Fronterizo en Chile</title>
+  <title>Imágenes sintéticas y desinformación institucional: Análisis crítico del caso Plan Escudo Fronterizo en Chile</title>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet" />
   <style>
     :root {
@@ -435,7 +435,7 @@
 
     <div class="article-type">Artículo de Investigación Original</div>
 
-    <h1>Imágenes sintéticas y desinformación institucional: auditoría forense del caso Plan Escudo Fronterizo en Chile</h1>
+    <h1>Imágenes sintéticas y desinformación institucional: Análisis crítico del caso Plan Escudo Fronterizo en Chile</h1>
 
     <p class="subtitle">Cómo la validación política de contenido generado por IA subvierte la jerarquía DIKW y erosiona la confianza ciudadana: un análisis desde el Data Feminism y la visualización forense</p>
 
