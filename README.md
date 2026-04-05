@@ -552,10 +552,6 @@
       <p>Siguiendo el marco de D'Ignazio y Klein (2020), se mapearon los actores del circuito de propagación identificando tres nodos: la cuenta de origen, el amplificador institucional y los medios reproductores. Este mapeo responde a la pregunta central del <em>Data Feminism</em>: ¿quién produce el dato, quién lo amplifica y quién resulta afectado? Se registró además la respuesta del senador Macaya ante la solicitud de declaración de Fast Check, dato clave para evaluar el comportamiento institucional frente a la evidencia de falsedad.</p>
     </div>
 
-    <figure>
-      <div class="fig-placeholder">[ Figura 1 · Diagrama del circuito de propagación: origen sintético → amplificación institucional → medios reproductores ]</div>
-      <figcaption><strong>Figura 1.</strong> Diagrama del circuito de propagación de la imagen sintética del Plan Escudo Fronterizo. Se identifican tres nodos: portal peruano "Agenda País" como origen descontextualizado, cuenta del senador Macaya como amplificador institucional, y medios digitales como reproductores secundarios.</figcaption>
-    </figure>
   </section>
 
   <!-- ── RESULTADOS ──────────────────────────────────────────── -->
@@ -612,10 +608,6 @@
       <p>D'Ignazio y Klein (2020) advierten que los sistemas de datos reflejan y reproducen las relaciones de poder existentes. Este caso lo confirma: quienes controlan herramientas de generación sintética y plataformas de alta visibilidad pueden introducir realidades fabricadas en el debate público, mientras las comunidades afectadas (poblaciones del norte del país y migrantes) carecen de recursos equivalentes para refutarlas. Como señalan Lupi y Cox (2024), los datos son experiencias vividas, y una mentira visual sobre migración impacta directamente en la experiencia humana de quienes son objeto de esa política.</p>
     </div>
 
-    <figure>
-      <div class="fig-placeholder">[ Figura 2 · Modelo DIKW aplicado al caso: subversión del flujo cognitivo por dato fraudulento ]</div>
-      <figcaption><strong>Figura 2.</strong> Aplicación del modelo DIKW al caso de estudio. El dato sintético (píxeles fraudulentos) es jerarquizado como información relevante por el algoritmo en función del prestigio del emisor, generando un cortocircuito que instala la imagen como "sabiduría pública" sin atravesar los filtros de validación.</figcaption>
-    </figure>
   </section>
 
   <!-- ── DISCUSIÓN ────────────────────────────────────────────── -->
