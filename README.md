@@ -536,7 +536,6 @@
     <div class="body-text">
       <p>El diseño de investigación adoptó como base documental el chequeo publicado por Fast Check CL el 17 de marzo de 2026, medio certificado por la International Fact-Checking Network (IFCN). A partir de ese registro periodístico verificado, el presente estudio realizó un análisis de segundo orden estructurado en tres etapas.</p>
     </div>
-
     <h2>3.2 Extracción de evidencia</h2>
     <div class="body-text">
       <p>Se tomó como punto de partida la publicación original del senador Javier Macaya en la plataforma X, documentada y archivada por Fast Check mediante capturas en archive.ph. La imagen circuló en el contexto del anuncio presidencial del Plan Escudo Fronterizo realizado por el presidente José Antonio Kast desde Arica, marco institucional que facilitó su aceptación inicial como contenido verídico. Como advierte Cairo (2020), las representaciones visuales no son espejos de la realidad sino argumentos construidos, y su poder persuasivo se amplifica cuando el emisor goza de autoridad institucional.</p>
@@ -563,7 +562,6 @@
       <p>Hive Moderation arrojó un 100% de probabilidad de origen sintético y Sight Engine un 95%, con un promedio consolidado de 97,5%, cifra que supera el umbral del 90% considerado estándar en la industria para determinar contenido no fotográfico. La confluencia de dos motores independientes en valores extremos elimina la posibilidad de un falso positivo aislado.</p>
       <p>Según Meirelles (2014), el cerebro reconoce estructuras visuales coherentes a partir de relaciones espaciales; precisamente en esa coherencia aparente reside la eficacia del engaño, ya que la imagen activa patrones de reconocimiento antes de que el ojo crítico detecte anomalías como el texto deformado ("Carabenersej de Chile") o las proporciones incorrectas de la maquinaria. La búsqueda inversa localizó la imagen en el portal peruano "Agenda País", donde fue publicada con aclaración explícita de origen artificial, confirmando que fue descontextualizada antes de viralizarse en Chile.</p>
     </div>
-
     <div class="table-wrapper">
       <table>
         <thead>
