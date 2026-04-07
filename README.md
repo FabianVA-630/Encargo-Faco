@@ -547,7 +547,7 @@
 
     <h2>3.4 Análisis de propagación y poder</h2>
     <div class="body-text">
-      <p>Siguiendo el marco de D'Ignazio y Klein (2020), se mapearon los actores del circuito de propagación identificando tres nodos: la cuenta de origen, el amplificador institucional y los medios reproductores. Este mapeo responde a la pregunta central del <em>Data Feminism</em>: ¿quién produce el dato, quién lo amplifica y quién resulta afectado? Se registró además la respuesta del senador Macaya ante la solicitud de declaración de Fast Check, dato clave para evaluar el comportamiento institucional frente a la evidencia de falsedad.</p>
+      <p>Siguiendo el marco de D'Ignazio y Klein (2020), se mapearon los actores del circuito de propagación identificando tres nodos: la cuenta de origen, el amplificador institucional y los medios reproductores. Este mapeo responde a la pregunta central del Data Feminism: ¿quién produce el dato, quién lo amplifica y quién resulta afectado? Se registró además la respuesta del senador Macaya ante la solicitud de declaración de Fast Check, dato clave para evaluar el comportamiento institucional frente a la evidencia de falsedad.</p>
     </div>
 
   </section>
